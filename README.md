@@ -82,7 +82,8 @@ During setup:
   * Web Admin Interface
   * Query logging
 * Pi-Hole Console Credentials
-    finnaly it will provide the `Passward` and the url to the web console `Ex: http://<your server ip>/admin
+
+    finnaly it will provide the `Passward` and the url to the web console `Ex: http://<your server ip>/admin`
 
 ---
 
