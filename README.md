@@ -36,7 +36,7 @@ You can run it on:
 
 # 1. Install Pi-hole on Debian / Ubuntu
 
-# Update your system first
+## Update your system first
 
 
 ```bash
@@ -81,6 +81,8 @@ During setup:
 
   * Web Admin Interface
   * Query logging
+* Pi-Hole Console Credentials
+    finnaly it will provide the `Passward` and the url to the web console `Ex: http://<your server ip>/admin
 
 ---
 
