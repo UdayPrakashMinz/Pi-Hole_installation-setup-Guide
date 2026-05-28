@@ -83,7 +83,7 @@ During setup:
   * Query logging
 * Pi-Hole Console Credentials
 
-    finnaly it will provide the `Passward` and the url to the web console `Ex: http://<your server ip>/admin`
+    finally it will provide the `Passward` and the url to the web console `Ex: http://<your server ip>/admin`
 
 ---
 
